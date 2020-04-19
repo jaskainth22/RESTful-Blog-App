@@ -5,6 +5,8 @@ mongoose       = require("mongoose"),
 express        = require("express"),
 app            = express();
 
+//checking if git is working
+
 //app config
 mongoose.set('useNewUrlParser', true);
 mongoose.set('useFindAndModify', false);
