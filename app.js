@@ -6,6 +6,7 @@ express        = require("express"),
 app            = express();
 
 //checking if git is working
+//checking if branches are working
 
 //app config
 mongoose.set('useNewUrlParser', true);
