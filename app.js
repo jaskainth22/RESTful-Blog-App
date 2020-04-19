@@ -8,6 +8,7 @@ app            = express();
 //checking if git is working
 //checking if branches are working
 //checking if branches of branchhes are working
+//checking if git flow feature branch is working
 
 
 //app config
