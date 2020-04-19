@@ -7,7 +7,7 @@ app            = express();
 
 //checking if git is working
 //checking if branches are working
-//checking if branches of branches are working
+//checking if branches of branchhes are working
 
 
 //app config
